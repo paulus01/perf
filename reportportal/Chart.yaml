@@ -4,8 +4,6 @@ name: reportportal
 version: 4.3.6
 sources:
   - https://github.com/reportportal/k8s/reportportal
-metadata:
-  name: tiller
 keywords:
   - reportportal
 maintainers:
